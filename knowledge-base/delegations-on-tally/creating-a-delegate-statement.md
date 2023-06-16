@@ -10,7 +10,7 @@ You'll see a _Delegation Statement_ for that DAO directly beneath the header. Cl
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-05-15 at 20.55.15@2x.png" alt=""><figcaption><p>Click <strong>Edit</strong> at the top right of the Delegation Statement box.</p></figcaption></figure>
 
-The next page allows your to populate your Delegate Profile. Click the box to indicate you're actively seeking delegations, then use the text editor to write and preview your full delegation statement. At the bottom, you can auto-generate a summary using AI, or choose to enter it manually.
+The next page allows you to populate your Delegate Profile. Click the box to indicate you're actively seeking delegations, then use the text editor to write and preview your full delegation statement. At the bottom, you can auto-generate a summary using AI, or choose to enter it manually.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2023-05-15 at 20.57.07@2x.png" alt=""><figcaption><p>Create a Delegate Profile.</p></figcaption></figure>
 
